@@ -10,7 +10,7 @@
 
 ## **_Project-Description_**
 
-This project is a Progressive Web Application for a budget tracker app. The app loads quickly, offers offline functionality and allow users to download the application as if it were a phone app. Users can track their budget by adding or deleting funds.
+This project is a web application for a budget tracker app where users can track their budget by adding or deleting funds. The intricate feature of the app is that it loads quickly, and offers offline functionality.
 
 ## **_Technologies used_**
 The project was created using the following:
@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1NF832c2uB1XLjtyuKtkJ7z0IPJA6CR_M/view?usp=shari
 
 
 ## **_Installation_**
-Here are some guidelines for installing the project on your local machine in order to be able to try it: 
+Guidelines for installing the app on your machine: 
 
 1. Clone  repo to your own local Git and run it from your CLI.
 
