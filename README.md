@@ -24,7 +24,7 @@ The project was created using the following:
 
 ## **_Usage_**
 
-![Screen Shot 2021-06-25 at 7 44 24 AM](https://user-images.githubusercontent.com/391936160/09dbb9bd-15ef-46bc-ade3-5f69a65edbd6.png)
+![Screen Shot 2021-06-25 at 7 44 24 AM](https://repository-images.githubusercontent.com/391936160/09dbb9bd-15ef-46bc-ade3-5f69a65edbd6.png)
 
 
 
