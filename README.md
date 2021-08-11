@@ -29,7 +29,7 @@ The project was created using the following:
 https://drive.google.com/file/d/1NF832c2uB1XLjtyuKtkJ7z0IPJA6CR_M/view?usp=sharing
 
 
-## **_Installation_**
+## **_Installation Process_**
 Guidelines for installing the app on your machine: 
 
 1. Clone  repo to your own local Git and run it from your CLI.
