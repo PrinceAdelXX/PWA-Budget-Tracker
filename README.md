@@ -3,10 +3,10 @@
 ## **_Table of contents_**
 * [Description of the project](#description-of-the-project)
 * [Technologies used](#technologies-used)
-* [Usage](#Usage)
-* [Installation](#installation)
-* [Link URL to GitHub Repository](#link-URL-to-GitHub-repository)
-* [Link URL of deployed app to Heroku](#link-URL-of-deployed-app-to-Heroku)
+* [Usage/Linked Screenshot](#Usage)
+* [Installation Process](#installation)
+* [URL to GitHub Repository](#link-URL-to-GitHub-repository)
+* [ URL of deployed app to Heroku](#link-URL-of-deployed-app-to-Heroku)
 
 ## **_Project-Description_**
 
