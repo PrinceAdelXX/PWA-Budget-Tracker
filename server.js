@@ -1,3 +1,4 @@
+require('dotenv').config();
 const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
@@ -20,11 +21,15 @@ mongoose.connect(MONGODB_URI, {
   useNewUrlParser: true,
   useFindAndModify: false,
   useUnifiedTopology: true
-});
+}).then(() => {
+  console.log('DB connected==>>')
 
-// routes
-app.use(require("./routes/api.js"));
+  // routes
+  app.use(require("./routes/api.js"));
 
-app.listen(PORT, () => {
-  console.log(`App running on port ${PORT}!`);
+  app.listen(PORT, () => {
+    console.log(`App running on port ${PORT}!`);
+  });
+}).catch(err => {
+  console.log('err connecting to DB', err);
 });
