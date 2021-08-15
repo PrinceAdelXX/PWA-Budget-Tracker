@@ -1,12 +1,5 @@
-# **_PWA-Budget-Tracker_**
+# PWA-Budget-Tracker
 
-## **_Table of contents_**
-* [Description of the project](#description-of-the-project)
-* [Technologies used](#technologies-used)
-* [Usage/Linked Screenshot](#Usage)
-* [Installation Process](#installation)
-* [URL to GitHub Repository](#link-URL-to-GitHub-repository)
-* [ URL of deployed app to Heroku](#link-URL-of-deployed-app-to-Heroku)
 
 ## **_Project-Description_**
 
@@ -22,11 +15,9 @@ The project was created using the following:
 * Heroku
 * Mongoose
 
-## **_Usage_**
+## **_Screenshot_**
 
-![Screen Shot 2021-06-25 at 7 44 24 AM](https://repository-images.githubusercontent.com/391936160/09dbb9bd-15ef-46bc-ade3-5f69a65edbd6.png)
-
-https://drive.google.com/file/d/1NF832c2uB1XLjtyuKtkJ7z0IPJA6CR_M/view?usp=sharing
+https://drive.google.com/file/d/1eur2t4Z06844fkxhVs-9GIfeXF0pn5Bk/view?usp=sharing
 
 
 ## **_Installation Process_**
