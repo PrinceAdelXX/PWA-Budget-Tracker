@@ -17,7 +17,8 @@ The project was created using the following:
 
 ## **_Screenshot_**
 
-https://drive.google.com/file/d/1eur2t4Z06844fkxhVs-9GIfeXF0pn5Bk/view?usp=sharing
+![2021-08-15 (9)](https://user-images.githubusercontent.com/34521827/129727427-ffdc6dc2-36c5-4505-a1b3-49ee6c72fbe6.png)
+
 
 
 ## **_Installation Process_**
